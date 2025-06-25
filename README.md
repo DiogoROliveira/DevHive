@@ -117,5 +117,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Designed and maintained by [DiogoROliveira](https://github.com/DiogoROliveira) and [Reis](https://github.com/reis999)  
-
----
